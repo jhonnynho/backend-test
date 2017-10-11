@@ -66,7 +66,7 @@ You'll need to pass the Client Name to retrieve any data, e.g:
 http://localhost:3001/policy/details?name=Manning
 ```
 
-###To get the user linked to a policy number
+### To get the user linked to a policy number
 
 ```sh
 http://localhost:3001/policy/user
