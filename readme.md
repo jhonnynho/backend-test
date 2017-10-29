@@ -8,7 +8,7 @@ NodeJS version Used 6.11.3
 To use this REST API you need first clone the GIT Repository
 
 ```sh
-git clone https://github.com/jhonnynho/backend-frontend-test.git
+git clone https://github.com/jhonnynho/express-backend-frontend-test.git
 ```
 
 Then go to the backend folder and install the dependencies using this command 
