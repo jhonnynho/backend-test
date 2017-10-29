@@ -14,14 +14,14 @@ git clone https://github.com/jhonnynho/express-backend-test.git
 Then go to the backend folder and install the dependencies using this command 
 
 ```sh
-    cd backend-test
+    cd express-backend-test
     npm install
 ```
 
 Once the dependencies are installed run the following command on the terminal
 
 ```sh
-    cd backend-test
+    cd express-backend-test
     npm start
 ```
 If all its ok, in the terminal will appear this message **Server it's ready**
